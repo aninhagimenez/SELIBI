@@ -1,0 +1,68 @@
+body{
+	background-color:#ffacec;
+	background-image: url("https://papeldeparededigital.com.br/2444-large_default/papel-de-parede-floral-tulipa-rosa-fundo-branco.jpg");
+}
+*{
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.sonia1{
+	    width: 34%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -5%;
+	
+}
+.sonia2{
+	   width: 30%;
+    padding: 0%;
+    margin-left: 33%;
+    margin-top: -2%;
+}
+main{
+	margin:6%;
+	background-color: pink;
+	width: 75%;
+	border-radius: 50px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding: 1%;
+	height: 1057px;
+}
+
+p{
+	justify-content:center;
+	display:flex;
+	align-items:center;
+	margin-left: 8%;
+    margin-right: 8%;
+    text-align: justify;
+	
+}
+
+.obras{
+	
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.algumas{
+	margin-left: 41%;
+	font-family:20%;
+}
+.quemfoi{
+	margin-left: 40%;
+	font-family:20%;
+}
+
+.content{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
